@@ -7,8 +7,6 @@ Tenho grande interesse em ampliar meus conhecimentos em **desenvolvimento backen
 
 ---
 
----
-
 ### 🚀 Habilidades
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -17,13 +15,6 @@ Tenho grande interesse em ampliar meus conhecimentos em **desenvolvimento backen
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-### 💻 Projetos em Destaque
-
-- [**PeqSystem-MVP**](https://github.com/Mary-Oliver/PeqSystem-MVP) — Sistema de gestão para pequenas empresas (Java + MySQL)  
-- [**Portfólio Pessoal**](https://github.com/Mary-Oliver/portfolio) — Meu site profissional, com design moderno e responsivo  
 
 ---
 
