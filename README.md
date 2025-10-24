@@ -30,7 +30,7 @@ Tenho grande interesse em ampliar meus conhecimentos em **desenvolvimento backen
 ### 📫 Contato
 
 📧 **maryoliver235@hotmail.com**  
-💼 [LinkedIn](https://www.linkedin.com/in/seuusuario)  
+💼 [LinkedIn]https://www.linkedin.com/in/mary-helen-9530b1142/  
 📍 Brasil  
 
 ---
