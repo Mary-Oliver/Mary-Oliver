@@ -1,6 +1,6 @@
 # 👋 Olá! Sou Mary Helen de Olivera.
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** e **graduanda em Banco de Dados**.  
+Sou técnica em **Análise e Desenvolvimento de Sistemas** e **graduanda em Banco de Dados**.  
 Curiosa por natureza e apaixonada em descobrir como as coisas são feitas — gosto de entender a lógica por trás de cada processo e transformar ideias em soluções reais.  
 Desenvolvo projetos acadêmicos voltados à **gestão de sistemas e bancos de dados**, atualmente com foco em **Java, Swing e MySQL**.  
 Tenho grande interesse em ampliar meus conhecimentos em **desenvolvimento backend**, **análise de dados** e **inteligência artificial aplicada**.
